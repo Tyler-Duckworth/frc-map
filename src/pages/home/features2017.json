@@ -1,0 +1,4262 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocket City Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017alhu",
+        "address": "700 Monroe St SW, Huntsville, AL 35801, USA",
+        "city": "Huntsville",
+        "state_prov": "AL"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.59042889999999,
+        34.7265536
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Archimedes Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017arc",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Arkansas Rock City Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017arli",
+        "address": "2600 Howard St, Little Rock, AR 72206, USA",
+        "city": "Little Rock",
+        "state_prov": "AR"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.2990572,
+        34.7217071
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Ozark Mountain Brawl",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017aroz",
+        "address": "1529 E Park Ave, Searcy, AR 72143, USA",
+        "city": "Searcy",
+        "state_prov": "AR"
+      },
+      "geometry": {
+        "coordinates": [
+        -91.7189413,
+        35.2448406
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Sanghi Foundation FRC AZ State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017azcmp",
+        "address": "Phoenix, AZ, USA",
+        "city": "Phoenix",
+        "state_prov": "AZ"
+      },
+      "geometry": {
+        "coordinates": [
+        -112.0740373,
+        33.4483771
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona North Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017azfl",
+        "address": "Flagstaff, AZ 86001, USA",
+        "city": "Flagstaff",
+        "state_prov": "AZ"
+      },
+      "geometry": {
+        "coordinates": [
+        -111.6528377,
+        35.1805483
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Arizona West Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017azpx",
+        "address": "3300 W Camelback Rd, Phoenix, AZ 85017, USA",
+        "city": "Phoenix",
+        "state_prov": "AZ"
+      },
+      "geometry": {
+        "coordinates": [
+        -112.128912,
+        33.5102029
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "BattleCry 18",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017bc",
+        "address": "100 Institute Rd, Worcester, MA 01609, USA",
+        "city": "Worcester",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.8096745,
+        42.2744595
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Beantown Blitz",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017bt",
+        "address": null,
+        "city": "Revere",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Beach Blitz",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cabl",
+        "address": "15871 Springdale St, Huntington Beach, CA 92649, USA",
+        "city": "Huntington Beach",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -118.0271876,
+        33.7315081
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Capital City Classic",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cacc",
+        "address": "9531 Bond Rd, Elk Grove, CA 95624, USA",
+        "city": "Elk Grove",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -121.340671,
+        38.4257078
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CalGames",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cacg",
+        "address": "3300 Quimby Rd, San Jose, CA 95148, USA",
+        "city": "San Jose",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -121.7789581,
+        37.3229422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Sacramento Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cada",
+        "address": "Davis, CA 95616, USA",
+        "city": "Davis",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -121.7595864,
+        38.5418888
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Orange County Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cair",
+        "address": "Irvine, CA 92697, USA",
+        "city": "Irvine",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -117.8442962,
+        33.6404952
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017calb",
+        "address": "1250 N Bellflower Blvd, Long Beach, CA 90840, USA",
+        "city": "Long Beach",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -118.1143892,
+        33.7873979
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Central Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cama",
+        "address": "705 W Pecan Ave, Madera, CA 93637, USA",
+        "city": "Madera",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -120.0664811,
+        36.9393999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Pre-Bag Scrimmage",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017capb",
+        "address": null,
+        "city": "Placentia",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Carson Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cars",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Carver Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017carv",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego Regional presented by Qualcomm",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017casd",
+        "address": "2260 Jimmy Durante Blvd, Del Mar, CA 92014, USA",
+        "city": "Del Mar",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -117.2583568,
+        32.9752398
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017casf",
+        "address": "2001 37th Ave, San Francisco, CA 94116, USA",
+        "city": "San Francisco",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.4959313,
+        37.74806950000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Silicon Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017casj",
+        "address": "290 S 7th St, San Jose, CA 95112, USA",
+        "city": "San Jose",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -121.8800817,
+        37.33522809999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Ventura Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cave",
+        "address": "4667 Telegraph Rd, Ventura, CA 93003, USA",
+        "city": "Ventura",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -119.2316244,
+        34.2769754
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Chezy Champs",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cc",
+        "address": "960 W Hedding St, San Jose, CA 95126, USA",
+        "city": "San Jose",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -121.917904,
+        37.342483
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIRST Chesapeake District Championship sponsored by Booz Allen Hamilton",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017chcmp",
+        "address": "907 Floyd Ave, Richmond, VA 23284, USA",
+        "city": "Richmond",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.4534286,
+        37.5489872
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Centurion-Krawler Week Zero",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ckw0",
+        "address": null,
+        "city": "Circle Pines",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Einstein Field (St. Louis)",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cmpmo",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Einstein Field (Houston)",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cmptx",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3579544,
+        29.75209569999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Colorado Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017code",
+        "address": "2240 Buchtel Blvd S, Denver, CO 80210, USA",
+        "city": "Denver",
+        "state_prov": "CO"
+      },
+      "geometry": {
+        "coordinates": [
+        -104.9618983,
+        39.6819652
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Hartford Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cthar",
+        "address": "55 Forest St, Hartford, CT 06105, USA",
+        "city": "Hartford",
+        "state_prov": "CT"
+      },
+      "geometry": {
+        "coordinates": [
+        -72.7010105,
+        41.7652258
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Connecticut State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ctsc",
+        "address": null,
+        "city": "Guilford",
+        "state_prov": "CT"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Suffield Shakedown Scrimmage",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ctss",
+        "address": "1060 Sheldon St, West Suffield, CT 06093, USA",
+        "city": "Suffield",
+        "state_prov": "CT"
+      },
+      "geometry": {
+        "coordinates": [
+        -72.6927204,
+        41.9807467
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Cow Town ThrowDown",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cttd",
+        "address": "400 SE Blue Pkwy, Lee's Summit, MO 64063, USA",
+        "city": "Lee's Summit",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -94.36637379999999,
+        38.9039849
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Waterbury Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ctwat",
+        "address": "460 Bucks Hill Rd, Waterbury, CT 06704, USA",
+        "city": "Waterbury",
+        "state_prov": "CT"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.0265679,
+        41.604199
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Curie Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017cur",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Daly Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017dal",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Darwin Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017dar",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Mission Mayhem",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017flmm",
+        "address": "2501 NW 11th St, Fort Lauderdale, FL 33311, USA",
+        "city": "Fort Lauderdale",
+        "state_prov": "FL"
+      },
+      "geometry": {
+        "coordinates": [
+        -80.1759107,
+        26.1396503
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Orlando Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017flor",
+        "address": "12777 Gemini Blvd N, Orlando, FL 32816, USA",
+        "city": "Orlando",
+        "state_prov": "FL"
+      },
+      "geometry": {
+        "coordinates": [
+        -81.19736689999999,
+        28.607225
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "ROBOTICON Tampa Bay",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017flrc",
+        "address": "4202 E Fowler Ave, Tampa, FL 33620, USA",
+        "city": "Tampa",
+        "state_prov": "FL"
+      },
+      "geometry": {
+        "coordinates": [
+        -82.406483,
+        28.0590356
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "South Florida Regional ",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017flwp",
+        "address": "650 Okeechobee Blvd, West Palm Beach, FL 33401, USA",
+        "city": "West Palm Beach",
+        "state_prov": "FL"
+      },
+      "geometry": {
+        "coordinates": [
+        -80.05887539999999,
+        26.70457039999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PCH District - Albany Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gaalb",
+        "address": "100 W Oglethorpe Blvd, Albany, GA 31701, USA",
+        "city": "Albany",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.15004619999999,
+        31.5738261
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Peachtree State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gacmp",
+        "address": "100 Smith St, Athens, GA 30606, USA",
+        "city": "Athens",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.3780926,
+        33.9425366
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PCH District - Columbus Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gacol",
+        "address": "4225 University Ave, Columbus, GA 31907, USA",
+        "city": "Columbus",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.94159,
+        32.502212
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PCH District - Dalton Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gadal",
+        "address": "2211 Dug Gap Battle Rd, Dalton, GA 30720, USA",
+        "city": "Dalton",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.00542190000002,
+        34.7592451
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PCH District - Gainesville Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gagai",
+        "address": "2001 Riverside Dr, Gainesville, GA 30501, USA",
+        "city": "Gainesville",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.8325229,
+        34.3323099
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Georgia Robotics Invitational Tournament & Showcase",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gagr",
+        "address": "2001 Riverside Dr, Gainesville, GA 30501, USA",
+        "city": "Gainesville",
+        "state_prov": "GA"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.8325229,
+        34.3323099
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Galileo Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017gal",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Great Lakes Bay Bot Bash",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017glbbb",
+        "address": "3901 N Saginaw Rd, Midland, MI 48640, USA",
+        "city": "Midland",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.2754104,
+        43.6407382
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "HAVOC",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017havoc",
+        "address": "899 Horsham Rd, Horsham, PA 19044, USA",
+        "city": "Horsham",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.1635218,
+        40.1977406
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hawaii Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017hiho",
+        "address": "2500 Campus Rd, Honolulu, HI 96822, USA",
+        "city": "Honolulu",
+        "state_prov": "HI"
+      },
+      "geometry": {
+        "coordinates": [
+        -157.818968,
+        21.3
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hopper Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017hop",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Iowa Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017iacf",
+        "address": "2501 Hudson Rd, Cedar Falls, IA 50614, USA",
+        "city": "Cedar Falls",
+        "state_prov": "IA"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.4673572,
+        42.5143484
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Idaho Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017idbo",
+        "address": "1401 Bronco Ln, Boise, ID 83725, USA",
+        "city": "Boise",
+        "state_prov": "ID"
+      },
+      "geometry": {
+        "coordinates": [
+        -116.19892,
+        43.60359
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Midwest Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ilch",
+        "address": "525 S Racine Ave, Chicago, IL 60607, USA",
+        "city": "Chicago",
+        "state_prov": "IL"
+      },
+      "geometry": {
+        "coordinates": [
+        -87.6561411,
+        41.8748558
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Central Illinois Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ilpe",
+        "address": "Renaissance Coliseum, N Maplewood Ave, Peoria, IL 61606, USA",
+        "city": "Peoria",
+        "state_prov": "IL"
+      },
+      "geometry": {
+        "coordinates": [
+        -89.61780639999999,
+        40.69919369999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Rock River Off-Season Competition",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ilrr",
+        "address": "3301 North Mulford Road, Rockford, IL 61114, USA",
+        "city": "Rockford",
+        "state_prov": "IL"
+      },
+      "geometry": {
+        "coordinates": [
+        -88.9951717,
+        42.3089263
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Boiler Bot Battle",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017inbbb",
+        "address": "812 3rd Street, West Lafayette, IN 47907, USA",
+        "city": "West Lafayette",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.9162217,
+        40.4282171
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CAGE Match",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017incm",
+        "address": "971 E Banta Rd, Indianapolis, IN 46227, USA",
+        "city": "Indianapolis",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.1414684,
+        39.67107900000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Indiana State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017incmp",
+        "address": "Huntington, IN 46750, USA",
+        "city": "Huntington",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.5105274,
+        40.8918853
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "IN District - St. Joseph Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017inmis",
+        "address": "56100 N Bittersweet Rd, Mishawaka, IN 46545, USA",
+        "city": "Mishawaka",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.1077188,
+        41.6789166
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "IN District - Perry Meridian Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017inpmh",
+        "address": "401 W Meridian School Rd, Indianapolis, IN 46217, USA",
+        "city": "Indianapolis",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.1665921,
+        39.6483986
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "IndyRAGE",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017inrg",
+        "address": null,
+        "city": "Indianapolis",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "IN District - Tippecanoe Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017inwla",
+        "address": "5701 N 50 W, West Lafayette, IN 47906, USA",
+        "city": "West Lafayette",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.91452620000001,
+        40.499183
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Indiana Robotics Invitational",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017iri",
+        "address": "Indianapolis, IN, USA",
+        "city": "Indianapolis",
+        "state_prov": "IN"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.158068,
+        39.768403
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "IROC",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017iroc",
+        "address": "15000 Graduation Dr, Haymarket, VA 20169, USA",
+        "city": "Haymarket",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.6298068,
+        38.8453326
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Kansas Cup",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017kscup",
+        "address": "4700 Overland Dr, Lawrence, KS 66049, USA",
+        "city": "Lawrence",
+        "state_prov": "KS"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3031444,
+        38.9750121
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle for the Bluegrass",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017kybb",
+        "address": "100 N Kentucky 830, Corbin, KY 40701, USA",
+        "city": "Corbin",
+        "state_prov": "KY"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.03729419999999,
+        36.9468616
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Bayou Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017lake",
+        "address": "4545 Williams Blvd, Kenner, LA 70065, USA",
+        "city": "Kenner",
+        "state_prov": "LA"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.240631,
+        30.03932099999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Greater Boston Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mabos",
+        "address": "101 School St, Revere, MA 02151, USA",
+        "city": "Revere",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.00789089999999,
+        42.4121531
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - SE Mass Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mabri",
+        "address": "415 Center St, Bridgewater, MA 02324, USA",
+        "city": "Bridgewater",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -70.993044,
+        41.9911025
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Bay State Brawl",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mabsb",
+        "address": "90 W Main St, Westborough, MA 01581, USA",
+        "city": "Westborough",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.6178259,
+        42.2638678
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan Advanced Robotics Competition",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017marc",
+        "address": null,
+        "city": "Monroe",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - North Shore Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017marea",
+        "address": "62 Oakland Rd, Reading, MA 01867, USA",
+        "city": "Reading",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.10908049999999,
+        42.53460860000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Worcester Polytechnic Institute Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mawor",
+        "address": "100 Institute Rd, Worcester, MA 01609, USA",
+        "city": "Worcester",
+        "state_prov": "MA"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.8096745,
+        42.2744595
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle O' Baltimore",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mdbb",
+        "address": "8600 McDonogh Rd, Owings Mills, MD 21117, USA",
+        "city": "Owings Mills",
+        "state_prov": "MD"
+      },
+      "geometry": {
+        "coordinates": [
+        -76.7769673,
+        39.3947049
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Greater DC Event sponsored by Accenture",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mdbet",
+        "address": "7100 Whittier Blvd, Bethesda, MD 20817, USA",
+        "city": "Bethesda",
+        "state_prov": "MD"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.12766289999999,
+        38.9813702
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Central Maryland Event sponsored by Leidos",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mdedg",
+        "address": "201 Central Ave E, Edgewater, MD 21037, USA",
+        "city": "Edgewater",
+        "state_prov": "MD"
+      },
+      "geometry": {
+        "coordinates": [
+        -76.5587475,
+        38.9211853
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Northern Maryland Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mdowi",
+        "address": "8600 McDonogh Rd, Owings Mills, MD 21117, USA",
+        "city": "Owings Mills",
+        "state_prov": "MD"
+      },
+      "geometry": {
+        "coordinates": [
+        -76.7769673,
+        39.3947049
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Pine Tree Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017melew",
+        "address": "190 Birch St, Lewiston, ME 04240, USA",
+        "city": "Lewiston",
+        "state_prov": "ME"
+      },
+      "geometry": {
+        "coordinates": [
+        -70.20511809999999,
+        44.09559299999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Mainely SPIRIT 7",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mems",
+        "address": "131 Messalonskee High Drive, Oakland, ME 04963, USA",
+        "city": "Oakland",
+        "state_prov": "ME"
+      },
+      "geometry": {
+        "coordinates": [
+        -69.7158835,
+        44.55505609999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Summer Heat",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mesh",
+        "address": "637 Highland Ave, South Portland, ME 04106, USA",
+        "city": "South Portland",
+        "state_prov": "ME"
+      },
+      "geometry": {
+        "coordinates": [
+        -70.2683941,
+        43.6219555
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Ann Arbor Pioneer Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miann",
+        "address": "601 W Stadium Blvd, Ann Arbor, MI 48103, USA",
+        "city": "Ann Arbor",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.75537080000001,
+        42.26265179999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Big Bang",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mibb",
+        "address": null,
+        "city": "Taylor",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Woodhaven Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mibro",
+        "address": "24787 Van Horn Rd, Brownstown Charter Twp, MI 48134, USA",
+        "city": "Brownstown Charter Township",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.2717028,
+        42.1223068
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Center Line Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micen",
+        "address": "26300 Arsenal St, Center Line, MI 48015, USA",
+        "city": "Center Line",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.02047549999999,
+        42.4867326
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micmp",
+        "address": "48710, 7400 Bay Rd, Saginaw, MI 48604, USA",
+        "city": "Saginaw",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9626849,
+        43.51391539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan State Championship - Consumers Energy Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micmp1",
+        "address": "48710, 7400 Bay Rd, Saginaw, MI 48604, USA",
+        "city": "Saginaw",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9626849,
+        43.51391539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan State Championship - Dow Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micmp2",
+        "address": "48710, 7400 Bay Rd, Saginaw, MI 48604, USA",
+        "city": "Saginaw",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9626849,
+        43.51391539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan State Championship - DTE Energy Foundation Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micmp3",
+        "address": "48710, 7400 Bay Rd, Saginaw, MI 48604, USA",
+        "city": "Saginaw",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9626849,
+        43.51391539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Michigan State Championship - Ford Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017micmp4",
+        "address": "48710, 7400 Bay Rd, Saginaw, MI 48604, USA",
+        "city": "Saginaw",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9626849,
+        43.51391539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Escanaba Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miesc",
+        "address": "500 S Lincoln Rd, Escanaba, MI 49829, USA",
+        "city": "Escanaba",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -87.0820462,
+        45.7411821
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Gaylord Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017migay",
+        "address": "90 Livingston Blvd, Gaylord, MI 49735, USA",
+        "city": "Gaylord",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.6709656,
+        45.0465108
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Rapids Girls Robotics Competition",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017migrg",
+        "address": null,
+        "city": "Wyoming",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Gull Lake Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017migul",
+        "address": "7753 N 34th St, Richland, MI 49083, USA",
+        "city": "Richland",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.4393006,
+        42.3727551
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Howell Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mihow",
+        "address": "400 Wright Rd, Howell, MI 48843, USA",
+        "city": "Howell",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.9274081,
+        42.565648
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Kettering Week  0.5",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mike0",
+        "address": null,
+        "city": "Flint",
+        "state_prov": "Mi"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Kettering University Event #2",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mike2",
+        "address": "1700 University Ave, Flint, MI 48504, USA",
+        "city": "Flint",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.712981,
+        43.0114011
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - East Kentwood Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miken",
+        "address": "6230 Kalamazoo Ave SE, Kentwood, MI 49508, USA",
+        "city": "Kentwood",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.6185354,
+        42.85077099999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Kettering University Event #1",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miket",
+        "address": "1700 University Ave, Flint, MI 48504, USA",
+        "city": "Flint",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.712981,
+        43.0114011
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Kettering Kickoff",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mikk",
+        "address": "1700 University Ave, Flint, MI 48504, USA",
+        "city": "Flint",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.7140725,
+        43.0109719
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Lakeview Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017milak",
+        "address": "15060 Helmer Rd S, Battle Creek, MI 49015, USA",
+        "city": "Battle Creek",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.2355157,
+        42.2916379
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Lansing Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017milan",
+        "address": "1001 S Barnes St, Mason, MI 48854, USA",
+        "city": "Mason",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.4353129,
+        42.570886
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Livonia Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miliv",
+        "address": "8900 N Newburgh Rd, Livonia, MI 48150, USA",
+        "city": "Livonia",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.4085504,
+        42.355419
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Lake Superior State University Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017milsu",
+        "address": "650 W Easterday Ave, Sault Ste. Marie, MI 49783, USA",
+        "city": "Sault Ste. Marie",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.36381120000001,
+        46.49307719999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Marysville Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mimar",
+        "address": "E., 555 Huron Blvd, Marysville, MI 48040, USA",
+        "city": "Marysville",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -82.47544959999999,
+        42.9111587
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Midland Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mimid",
+        "address": "3901 N Saginaw Rd, Midland, MI 48640, USA",
+        "city": "Midland",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.2754104,
+        43.6407382
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Shepherd Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mishe",
+        "address": "100 E Hall St, Shepherd, MI 48883, USA",
+        "city": "Shepherd",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -84.69053989999999,
+        43.52176539999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - St. Joseph Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017misjo",
+        "address": "2521 Stadium Dr, St Joseph, MI 49085, USA",
+        "city": "Saint Joseph",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -86.492801,
+        42.089441
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Southfield Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017misou",
+        "address": "24675 Lahser Rd, Southfield, MI 48033, USA",
+        "city": "Southfield",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.2633032,
+        42.4694756
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Troy Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mitry",
+        "address": "4333 John R Rd, Troy, MI 48085, USA",
+        "city": "Troy",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.11195029999999,
+        42.58196649999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Traverse City Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mitvc",
+        "address": "1150 Milliken Dr, Traverse City, MI 49686, USA",
+        "city": "Traverse City",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.58806659999999,
+        44.76894859999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - Waterford Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miwat",
+        "address": "1151 Scott Lake Rd, Waterford Twp, MI 48328, USA",
+        "city": "Waterford Township",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.3490497,
+        42.6564663
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIM District - West Michigan Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017miwmi",
+        "address": "1 Campus Dr, Allendale, MI 49401, USA",
+        "city": "Allendale Charter Township",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        -85.8889465,
+        42.9639355
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MSHSL FIRST State Robotics Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mncmp",
+        "address": "Minneapolis, MN, USA",
+        "city": "Minneapolis",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -93.2650108,
+        44.977753
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Superior Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mndu",
+        "address": "350 Harbor Dr, Duluth, MN 55802, USA",
+        "city": "Duluth",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.09950649999999,
+        46.78126760000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Lights Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mndu2",
+        "address": "350 Harbor Dr, Duluth, MN 55802, USA",
+        "city": "Duluth",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.09950649999999,
+        46.78126760000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "East Metro Collaborative Competition",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnemcc",
+        "address": "4200 Pioneer Dr, Woodbury, MN 55129, USA",
+        "city": "Woodbury",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.93364199999999,
+        44.8857046
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Gitchi Gummi Get-Together",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mngggt",
+        "address": "301 N 40th Ave E, Duluth, MN 55804, USA",
+        "city": "Duluth",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -92.043296,
+        46.824246
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota 10000 Lakes Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnmi",
+        "address": "1925 University Ave SE, Minneapolis, MN 55455, USA",
+        "city": "Minneapolis",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -93.22829800000001,
+        44.976988
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota North Star Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnmi2",
+        "address": "1901 4th St SE, Minneapolis, MN 55455, USA",
+        "city": "Minneapolis",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -93.22802659999999,
+        44.9781197
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Minne Mini",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnmn",
+        "address": "7575 150th St W, Savage, MN 55378, USA",
+        "city": "Savage",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -93.3783148,
+        44.7285078
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Minnesota Robotics Invitational",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnri",
+        "address": "1240 County Road B2 W, Roseville, MN 55113, USA",
+        "city": "Roseville",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -93.15209399999999,
+        45.012015
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Northern MN Week Zero",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mnw0",
+        "address": null,
+        "city": "Nevis",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Gateway Robotics Challenge",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mogw",
+        "address": "15875 New Halls Ferry Road, Florissant, MO 63031, USA",
+        "city": "Florissant",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.31588339999999,
+        38.8301158
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Kansas City Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mokc",
+        "address": "1775 N Universal Ave, Kansas City, MO 64120, USA",
+        "city": "Kansas City",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -94.5041059,
+        39.139169
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Missouri State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mosc",
+        "address": null,
+        "city": "Lake St Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "St. Louis Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mosl",
+        "address": "1 S Compton Ave, St. Louis, MO 63103, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.227955,
+        38.632511
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIRST Mid-Atlantic District Championship sponsored by Johnson & Johnson",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mrcmp",
+        "address": "124 Goodman Dr S, Bethlehem, PA 18015, USA",
+        "city": "Bethlehem",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.35740299999999,
+        40.58528099999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Beach Bot Battle",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017msbbb",
+        "address": null,
+        "city": "Gulfport",
+        "state_prov": "MS"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MadTown Throwdown",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mttd",
+        "address": "200 S L St, Madera, CA 93637, USA",
+        "city": "Madera",
+        "state_prov": "CA"
+      },
+      "geometry": {
+        "coordinates": [
+        -120.065666,
+        36.9553597
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Mahoning Valley Robotics Challenge",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017mvrc",
+        "address": "860 Elm Rd NE, Warren, OH 44483, USA",
+        "city": "Warren",
+        "state_prov": "OH"
+      },
+      "geometry": {
+        "coordinates": [
+        -80.805421,
+        41.24280759999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NC District - UNC Asheville Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncash",
+        "address": "227 Campus Dr, Asheville, NC 28804, USA",
+        "city": "Asheville",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        -82.568921,
+        35.6180652
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIRST North Carolina State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nccmp",
+        "address": "Law Lane, Lillington, NC 27546, USA",
+        "city": "Lillington",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        -78.73680399999999,
+        35.4079071
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NC District - Greensboro Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncgre",
+        "address": "1408 Walker Ave, Greensboro, NC 27412, USA",
+        "city": "Greensboro",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        -79.8128788,
+        36.0693429
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NC District - Raleigh Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncral",
+        "address": "2600 Rock Quarry Rd, Raleigh, NC 27610, USA",
+        "city": "Raleigh",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        -78.6040771,
+        35.7453552
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "THOR @ UNC Pembroke",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncth",
+        "address": null,
+        "city": "Pembroke",
+        "state_prov": "North Carolina"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "THOR @ Raleigh",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncth2",
+        "address": null,
+        "city": "Raleigh",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NC District - Pitt County Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ncwin",
+        "address": "570 Forlines Rd, Winterville, NC 28590, USA",
+        "city": "Winterville",
+        "state_prov": "NC"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.42862579999999,
+        35.5415155
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "New England District Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017necmp",
+        "address": "128 Main St, Durham, NH 03824, USA",
+        "city": "Durham",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -70.9344539,
+        43.1397577
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Newton Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017new",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Battle Of the Bay",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhbb",
+        "address": "242 Suncook Valley Rd, Alton, NH 03809, USA",
+        "city": "Alton",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.213364,
+        43.43761600000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Southern NH Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhbed",
+        "address": "47 Nashua Rd, Bedford, NH 03110, USA",
+        "city": "Bedford",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.51953639999999,
+        42.9372265
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "FIRST Festival of Champions",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhfoc",
+        "address": "555 Elm St, Manchester, NH 03101, USA",
+        "city": "Manchester",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.4616607,
+        42.9867265
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Granite State Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhgrs",
+        "address": "64 London Bridge Rd, Windham, NH 03087, USA",
+        "city": "Windham",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.3225341,
+        42.795007
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Mayhem In Merrimack",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhmm",
+        "address": null,
+        "city": "Merrimack",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "RiverRage 21",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nhrr",
+        "address": "1 Crusader Way, Manchester, NH 03103, USA",
+        "city": "Manchester",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.4344026,
+        42.9666738
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Brunswick Eruption",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njbe",
+        "address": "98 Raider Rd, North Brunswick Township, NJ 08902, USA",
+        "city": "North Brunswick Township",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.46894379999999,
+        40.4527824
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Bridgewater-Raritan Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njbri",
+        "address": "600 Garretson Rd, Bridgewater, NJ 08807, USA",
+        "city": "Bridgewater",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.63451490000001,
+        40.59299619999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Duel on the Delaware",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njdd",
+        "address": "460 Hollywood Ave, Penns Grove, NJ 08069, USA",
+        "city": "Penns Grove",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.4701195,
+        39.70146340000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Mount Olive Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njfla",
+        "address": "18 Corey Rd, Flanders, NJ 07836, USA",
+        "city": "Mount Olive Township",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.713984,
+        40.858616
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MidKnight Mayhem V",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njmm",
+        "address": null,
+        "city": " West Windsor Township",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Montgomery Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njski",
+        "address": "1016 Co Rd 601, Skillman, NJ 08558, USA",
+        "city": "Montgomery",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.7064384,
+        40.4174592
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Seneca Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017njtab",
+        "address": "110 Carranza Rd, Tabernacle, NJ 08088, USA",
+        "city": "Tabernacle",
+        "state_prov": "NJ"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.717578,
+        39.8573487
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Minnesota Robotics Conference Tournament",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nmrcc",
+        "address": "15308 MN-371, Cass Lake, MN 56633, USA",
+        "city": "Cass Lake",
+        "state_prov": "MN"
+      },
+      "geometry": {
+        "coordinates": [
+        -94.6192377,
+        47.359399
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Las Vegas Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nvlv",
+        "address": "Las Vegas, NV 89101, USA",
+        "city": "Las Vegas",
+        "state_prov": "NV"
+      },
+      "geometry": {
+        "coordinates": [
+        -115.1310338,
+        36.17970390000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Ferris State Roboday",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyfs",
+        "address": null,
+        "city": "Big Rapids",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Half Hollow Hills Invitational",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyhhh",
+        "address": "375 Wolf Hill Rd, Dix Hills, NY 11746, USA",
+        "city": "Dix Hills",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.3736522,
+        40.8105844
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Valley Rally",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyhvr",
+        "address": "127 N Broadway, Yonkers, NY 10701, USA",
+        "city": "Yonkers",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.8968758,
+        40.93868399999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "SBPLI Long Island Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyli",
+        "address": "1000 Fulton Ave, Hempstead, NY 11549, USA",
+        "city": "Hempstead",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.5985336,
+        40.7165676
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "New York City Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyny",
+        "address": "The Armory, 216 Fort Washington Ave, New York, NY 10032, USA",
+        "city": "New York",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.941251,
+        40.8421049
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Finger Lakes Regional ",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyro",
+        "address": "Rochester, NY 14623, USA",
+        "city": "Rochester",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.6719703,
+        43.08488029999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Rah Cha Cha Ruckus",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nyrr",
+        "address": null,
+        "city": "Rochester",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hudson Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nysu",
+        "address": "145 College Road, Suffern, NY 10901, USA",
+        "city": "Suffern",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -74.090226,
+        41.1334696
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "New York Tech Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nytr",
+        "address": "110 8th St, Troy, NY 12180, USA",
+        "city": "Troy",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.6788026,
+        42.73017199999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Tech Valley Robot Rumble",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017nytv",
+        "address": "220 Ballston Ave, Ballston Spa, NY 12020, USA",
+        "city": "Ballston Spa",
+        "state_prov": "NY"
+      },
+      "geometry": {
+        "coordinates": [
+        -73.8558353,
+        42.99110939999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Buckeye Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ohcl",
+        "address": "2000 Prospect Ave E, Cleveland, OH 44115, USA",
+        "city": "Cleveland",
+        "state_prov": "OH"
+      },
+      "geometry": {
+        "coordinates": [
+        -81.676497,
+        41.499205
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CORI Invitational ",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ohri",
+        "address": null,
+        "city": "Dublin",
+        "state_prov": "OH"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Miami Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ohsp",
+        "address": "200 W Ward St, Springfield, OH 45504, USA",
+        "city": "Springfield",
+        "state_prov": "OH"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.81224619999999,
+        39.93471899999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Oklahoma Regional ",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017okok",
+        "address": "1 Myriad Gdns, Oklahoma City, OK 73102, USA",
+        "city": "Oklahoma City",
+        "state_prov": "OK"
+      },
+      "geometry": {
+        "coordinates": [
+        -97.51464370000001,
+        35.46596230000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Girls Generation Oregon",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017orgg",
+        "address": "8825 SW Barnes Rd, Portland, OR 97225, USA",
+        "city": "Portland",
+        "state_prov": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.7674819,
+        45.509995
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Lake Oswego Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017orlak",
+        "address": "2501 Country Club Rd, Lake Oswego, OR 97034, USA",
+        "city": "Lake Oswego",
+        "state_prov": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.7024808,
+        45.42752039999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Clackamas Academy of Industrial Science Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017orore",
+        "address": "8740 SE Sunnybrook Blvd, Clackamas, OR 97015, USA",
+        "city": "Clackamas",
+        "state_prov": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.5733574,
+        45.4295173
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Wilsonville Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017orwil",
+        "address": "6800 SW Wilsonville Rd, Wilsonville, OR 97070, USA",
+        "city": "Wilsonville",
+        "state_prov": "OR"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.747698,
+        45.30742360000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Greater Pittsburgh Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017paca",
+        "address": "250 University Ave, California, PA 15419, USA",
+        "city": "California",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -79.8821603,
+        40.063207
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "GirlPOWER",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017pagp",
+        "address": null,
+        "city": "Flourtown",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Hatboro-Horsham Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017pahat",
+        "address": "899 Horsham Rd, Horsham, PA 19044, USA",
+        "city": "Horsham",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.1635218,
+        40.1977406
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Springside Chestnut Hill Academy Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017paphi",
+        "address": "500 W Willow Grove Ave, Philadelphia, PA 19118, USA",
+        "city": "Philadelphia",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.20953469999999,
+        40.06155810000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Ramp Riot",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017parr",
+        "address": "521 Houston Rd, Ambler, PA 19002, USA",
+        "city": "Ambler",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.22733149999999,
+        40.1718337
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Steel City Showdown",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017pascs",
+        "address": "5032 Forbes Ave, Pittsburgh, PA 15213, USA",
+        "city": "Pittsburgh",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -79.9420112,
+        40.4434055
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "MAR District - Westtown Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017pawch",
+        "address": "975 Westtown Rd, West Chester, PA 19382, USA",
+        "city": "West Chester",
+        "state_prov": "PA"
+      },
+      "geometry": {
+        "coordinates": [
+        -75.53830599999999,
+        39.9483
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Northwest District Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017pncmp",
+        "address": "526 5th St, Cheney, WA 99004, USA",
+        "city": "Cheney",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -117.584518,
+        47.48978899999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "NE District - Rhode Island Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017ripro",
+        "address": "1150 Douglas Pike, Smithfield, RI 02917, USA",
+        "city": "Smithfield",
+        "state_prov": "RI"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.5382698,
+        41.9210684
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Roebling Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017roe",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Red Stick Rumble",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017rsr",
+        "address": null,
+        "city": "Baton Rouge",
+        "state_prov": "LA"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Palmetto Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017scmb",
+        "address": "2101 N Oak St, Myrtle Beach, SC 29579, USA",
+        "city": "Myrtle Beach",
+        "state_prov": "SC"
+      },
+      "geometry": {
+        "coordinates": [
+        -78.8741921,
+        33.7065801
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "SCRIW (South Carolina Robotics Invitational & Workshops)",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017scriw",
+        "address": null,
+        "city": "Columbia",
+        "state_prov": "SC"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Tesla Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017tes",
+        "address": "901 N Broadway, St. Louis, MO 63101, USA",
+        "city": "St. Louis",
+        "state_prov": "MO"
+      },
+      "geometry": {
+        "coordinates": [
+        -90.1885095,
+        38.6328287
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Smoky Mountains Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017tnkn",
+        "address": "1600 Phillip Fulmer Way #202, Knoxville, TN 37996, USA",
+        "city": "Knoxville",
+        "state_prov": "TN"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.92498060000001,
+        35.9511233
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Tennessee Valley Fair Robo-Rodeo",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017tnvfrr",
+        "address": "3301 E Magnolia Ave, Knoxville, TN 37914, USA",
+        "city": "Knoxville",
+        "state_prov": "TN"
+      },
+      "geometry": {
+        "coordinates": [
+        -83.88409419999999,
+        35.99634229999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Turing Division",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017tur",
+        "address": "1001 Avenida De Las Americas, Houston, TX 77010, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.3578364,
+        29.7521422
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Dallas Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txda",
+        "address": "500 West Las Colinas Boulevard, Irving, TX 75039, USA",
+        "city": "Irving",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -96.943101,
+        32.87800099999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Lone Star Central Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txho",
+        "address": "8900 Bellaire Blvd, Houston, TX 77036, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.54144649999999,
+        29.7062145
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Hub City Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txlu",
+        "address": "82 US 82 Frontage Road, Lubbock, TX 79403, USA",
+        "city": "Lubbock",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -101.8355423,
+        33.586836
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "North Texas Tournament of Robots",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txntx",
+        "address": "1717 17th St, Plano, TX 75074, USA",
+        "city": "Plano",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -96.689376,
+        33.02264880000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Robotics Invitational",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txri",
+        "address": "8900 Bellaire Blvd, Houston, TX 77036, USA",
+        "city": "Houston",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.54144649999999,
+        29.7062145
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "The Remix",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txrm",
+        "address": "3701 College Park Dr, The Woodlands, TX 77384, USA",
+        "city": "The Woodlands",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.4717587,
+        30.20456679999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Texas Robot Roundup",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txrr",
+        "address": "9500 McNeil Dr, Austin, TX 78750, USA",
+        "city": "Austin",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -97.82472779999999,
+        30.3982989
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Alamo Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txsa",
+        "address": "900 E Market St, San Antonio, TX 78205, USA",
+        "city": "San Antonio",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -98.4839688,
+        29.42058189999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Texas UIL State Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txsc",
+        "address": "500 E Cesar Chavez St, Austin, TX 78701, USA",
+        "city": "Austin",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -97.7396059,
+        30.2635686
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Brazos Valley Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txwa",
+        "address": "3201 S New Rd, Waco, TX 76706, USA",
+        "city": "Waco",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -97.13664999999999,
+        31.504484
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Lone Star North Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017txwo",
+        "address": "3701 College Park Dr, The Woodlands, TX 77384, USA",
+        "city": "The Woodlands",
+        "state_prov": "TX"
+      },
+      "geometry": {
+        "coordinates": [
+        -95.4698804,
+        30.2043743
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Utah Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017utwv",
+        "address": "3200 S Decker Lake Dr, West Valley City, UT 84119, USA",
+        "city": "West Valley City",
+        "state_prov": "UT"
+      },
+      "geometry": {
+        "coordinates": [
+        -111.9505256,
+        40.7026954
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Southwest Virginia Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017vabla",
+        "address": "3401 Bruin Ln, Blacksburg, VA 24060, USA",
+        "city": "Blacksburg",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -80.4593477,
+        37.2108556
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Central Virginia Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017vagle",
+        "address": "4801 Twin Hickory Rd, Glen Allen, VA 23059, USA",
+        "city": "Glen Allen",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.5996397,
+        37.6756382
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Northern Virginia Event sponsored by Bechtel",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017vahay",
+        "address": "15000 Graduation Dr, Haymarket, VA 20169, USA",
+        "city": "Haymarket",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -77.6298068,
+        38.8453326
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Mid-Atlantic Robotics Showdown",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017vamars",
+        "address": "100 Trojan Cir, Dry Fork, VA 24549, USA",
+        "city": "Dry Fork",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -79.524529,
+        36.669493
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "CHS District - Hampton Roads Event sponsored by Newport News Shipbuilding",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017vapor",
+        "address": "4301 Cedar Lane, Portsmouth, VA 23703, USA",
+        "city": "Portsmouth",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -76.3709524,
+        36.8804329
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Rumble in the Roads",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017varr",
+        "address": "5800 Marshall Ave, Newport News, VA 23605, USA",
+        "city": "Newport News",
+        "state_prov": "VA"
+      },
+      "geometry": {
+        "coordinates": [
+        -76.4272036,
+        37.0063383
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Auburn Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017waahs",
+        "address": "711 E Main St, Auburn, WA 98002, USA",
+        "city": "Auburn",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.2198371,
+        47.30860759999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Auburn Mountainview Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017waamv",
+        "address": "28900 124th Ave SE, Auburn, WA 98092, USA",
+        "city": "Auburn",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.1719807,
+        47.3419907
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Central Washington University Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017waell",
+        "address": "400 E University Way, Ellensburg, WA 98926, USA",
+        "city": "Ellensburg",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -120.5360183,
+        47.0067549
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Washington Girls Generation",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wagg",
+        "address": "23499 SE Tahoma Way, Maple Valley, WA 98038, USA",
+        "city": "Maple Valley",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.0290195,
+        47.3574574
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Mount Vernon Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wamou",
+        "address": "314 N 9th St, Mt Vernon, WA 98273, USA",
+        "city": "Mount Vernon",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.3274673,
+        48.4237437
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Peak Performance",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wapp",
+        "address": "18301 Military Rd S, SeaTac, WA 98188, USA",
+        "city": "SeaTac",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.272048,
+        47.4387
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Robot Rewind",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017warr",
+        "address": "8301 E Buckeye Ave, Spokane, WA 99212, USA",
+        "city": "Spokane",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -117.292742,
+        47.68340310000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - Glacier Peak Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wasno",
+        "address": "7401 144th Pl SE, Snohomish, WA 98296, USA",
+        "city": "Snohomish",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -122.1340012,
+        47.8687686
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "PNW District - West Valley Event",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017waspo",
+        "address": "8301 E Buckeye Ave, Spokane, WA 99212, USA",
+        "city": "Spokane",
+        "state_prov": "WA"
+      },
+      "geometry": {
+        "coordinates": [
+        -117.292742,
+        47.68340310000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Week 0",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017week0",
+        "address": "194 Lund Rd, Nashua, NH 03060, USA",
+        "city": "Nashua",
+        "state_prov": "NH"
+      },
+      "geometry": {
+        "coordinates": [
+        -71.4752761,
+        42.7378505
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Rivers Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wila",
+        "address": "300 Harborview Plaza, La Crosse, WI 54601, USA",
+        "city": "La Crosse",
+        "state_prov": "WI"
+      },
+      "geometry": {
+        "coordinates": [
+        -91.25572419999999,
+        43.8122334
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Wisconsin Regional",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wimi",
+        "address": "400 W Kilbourn Ave, Milwaukee, WI 53203, USA",
+        "city": "Milwaukee",
+        "state_prov": "WI"
+      },
+      "geometry": {
+        "coordinates": [
+        -87.9169055,
+        43.04222139999999
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "Where is Wolcott Invitational",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wiwi",
+        "address": "457 Bound Line Rd, Wolcott, CT 06716, USA",
+        "city": "Wolcott",
+        "state_prov": "CT"
+      },
+      "geometry": {
+        "coordinates": [
+        -72.9795493,
+        41.60704190000001
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "West Michigan Robotics Invitational ",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wmri",
+        "address": null,
+        "city": "Zeeland",
+        "state_prov": "MI"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      },{
+      "type": "Feature",
+      "properties": {
+        "name": "WOW Championship",
+        "marker-symbol": "circle",
+        "marker-size": "medium",
+        "marker-color": "#357e7e",
+        "key": "2017wowcmp",
+        "address": null,
+        "city": "Westerville",
+        "state_prov": "OH"
+      },
+      "geometry": {
+        "coordinates": [
+        null,
+        null
+        ],
+        "type": "Point"
+      }
+      }
+  ],
+  "type": "FeatureCollection"
+}

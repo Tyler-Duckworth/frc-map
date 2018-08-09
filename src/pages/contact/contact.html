@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Event
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="cards">
+  <h1><span class="event">Event:</span> <span class="name">{{ name }}</span></h1>
+  <h1><span class="event">Location:</span> <span class="name">{{ address }}</span></h1>
+  <h1><a href="{{gmaps}}" class="gmap">Google Maps <ion-icon name="arrow-forward"></ion-icon></a></h1>
+  <h1>Teams Involved:</h1>
+  <div *ngFor="let team of teams">
+    <ion-card class="team-card">
+      <ion-card-header class="card-h"><a href="{{team.website}}" class="a"><b>{{team.nickname}}</b></a> - <span class="sans">Team {{team.team_number}}</span></ion-card-header>
+      <ion-card-content color="light" margin-left>
+
+        <ng-container *ngIf="(team.motto != null); then mottos; else default"></ng-container>
+          <ng-template #mottos>
+            <p class="motto" margin-bottom><i>{{team.motto}}</i></p>
+          </ng-template>
+          <ng-template #default>
+            <p class="motto" margin-bottom><i>"FIRST is more than robots!"</i> - Dean Kamen</p>
+          </ng-template>
+
+        <p class="location" margin-bottom><b>Location:</b> <span class="sans">{{team.city}}, {{team.state_prov}}</span></p>
+      </ion-card-content>
+    </ion-card>
+  </div>
+  <!-- <ion-card>
+    <ion-card-header></ion-card-header>
+    <ion-card-content>
+
+    </ion-card-content>
+  </ion-card> -->
+</ion-content>

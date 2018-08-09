@@ -1,0 +1,106 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/
+
+// Font path is used to include ionicons,
+// roboto, and noto sans fonts
+$font-path: "../assets/fonts";
+
+
+// The app direction is used to include
+// rtl styles in your app. For more info, please see:
+// http://ionicframework.com/docs/theming/rtl-support/
+$app-direction: ltr;
+
+
+@import "ionic.globals";
+
+
+// Shared Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass variables found in Ionic's source scss files.
+// To view all the possible Ionic variables, see:
+// http://ionicframework.com/docs/theming/overriding-ionic-variables/
+
+
+
+
+// Named Color Variables
+// --------------------------------------------------
+// Named colors makes it easy to reuse colors on various components.
+// It's highly recommended to change the default colors
+// to match your app's branding. Ionic uses a Sass map of
+// colors so you can add, rename and remove colors as needed.
+// The "primary" color is the only required color in the map.
+
+
+$colors: (
+  primary:    #488aff,
+  secondary:  #32db64,
+  danger:     #f53d3d,
+  light:      #f4f4f4,
+  dark:       #222
+);
+
+$tabs-tab-color-active: #ffffff !default;
+$tabs-tab-color-inactive: #E5E5E5 !default;
+$tabs-md-tab-color-inactive:#E5E5E5 !default;
+// App iOS Variables
+// --------------------------------------------------
+// iOS only Sass variables can go here
+
+$select-ios-placeholder-color: $tabs-tab-color-active;
+$select-ios-icon-color: $tabs-tab-color-active;
+$select-ios-text-color: $tabs-tab-color-active;
+$card-ios-text-color: #ffffff;
+$card-wp-background-color: radial-gradient(at bottom, rgba(19, 196, 45, 1) 0%, rgba(14, 143, 33, 1) 25%,  rgba(10,97,24,1) 100%) !default;
+
+
+
+// App Material Design Variables
+// --------------------------------------------------
+// Material Design only Sass variables can go here
+
+$select-md-placeholder-color: $tabs-tab-color-active;
+$select-md-icon-color: $tabs-tab-color-active;
+$select-md-text-color: $tabs-tab-color-active;
+$card-md-text-color: #ffffff;
+$card-wp-text-color: #ffffff;
+
+
+
+// App Windows Variables
+// --------------------------------------------------
+// Windows only Sass variables can go here
+
+$select-wp-placeholder-color: $tabs-tab-color-active;
+$select-wp-icon-color: $tabs-tab-color-active;
+$select-wp-text-color: $tabs-tab-color-active;
+$tabs-background:radial-gradient(at top, rgba(19, 196, 45, 1) 0%, rgba(14, 143, 33, 1) 25%,  rgba(10,97,24,1) 100%)!default;
+
+
+
+
+// App Theme
+// --------------------------------------------------
+// Ionic apps can have different themes applied, which can
+// then be future customized. This import comes last
+// so that the above variables are used and Ionic's
+// default are overridden.
+
+@import "ionic.theme.default";
+
+
+// Ionicons
+// --------------------------------------------------
+// The premium icon font for Ionic. For more info, please see:
+// http://ionicframework.com/docs/ionicons/
+
+@import "ionic.ionicons";
+
+
+// Fonts
+// --------------------------------------------------
+
+@import "roboto";
+@import "noto-sans";
